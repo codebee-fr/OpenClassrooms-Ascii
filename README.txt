@@ -1,2 +1,1 @@
-# OpenClassrooms-Ascii
-Git &amp; GitHub - Partie 2 Activité
+Projet OpenClassrooms-Ascii | Git et GitHub - Partie 2 Activité
